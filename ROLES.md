@@ -38,6 +38,7 @@ One row per person. The same role may appear on more than one row.
 | Name | GitHub username | Role |
 |---|---|---|
 | Emily Bradley | embrad03 | Delivery Lead |
+| Nathan Potisit | npotisit | Design Lead, Data Lead |
 
 ## Side quests
 
