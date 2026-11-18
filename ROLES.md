@@ -40,6 +40,7 @@ One row per person. The same role may appear on more than one row.
 | Emily Bradley | embrad03 | Delivery Lead |
 | Nathan Potisit | npotisit | Design Lead, Data Lead |
 | Celina Seo | hjcelinaseo-collab | Spec Lead |
+| Andrew Wolf | AndrewWolf26 | Spec Lead, Pitch Lead |
 
 ## Side quests
 
